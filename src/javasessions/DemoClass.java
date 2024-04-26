@@ -7,6 +7,8 @@ public class DemoClass {
 
 		String name = "Just for the testing purpose";
 
+		int number = 10;
+
 	}
 
 }
