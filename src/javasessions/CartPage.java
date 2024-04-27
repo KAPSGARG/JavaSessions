@@ -7,6 +7,13 @@ public class CartPage {
 
 		int i = 30;
 
+		display();
+
+		String str = "Testing only";
+	}
+
+	public static void display() {
+		System.out.println("Display");
 	}
 
 }
