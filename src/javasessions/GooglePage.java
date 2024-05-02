@@ -14,4 +14,9 @@ public class GooglePage {
 		System.out.println("registreUser method");
 	}
 
+	public void forgotPwd() {
+		System.out.println("forgotPwd method");
+
+	}
+
 }
