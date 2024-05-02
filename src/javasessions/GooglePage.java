@@ -6,6 +6,8 @@ public class GooglePage {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Google page class");
+		System.out.println("Hello there!!!");
+
 	}
 
 }
