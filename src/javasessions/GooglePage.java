@@ -10,4 +10,9 @@ public class GooglePage {
 
 	}
 
+	public void forgotPwd()
+	{
+		System.out.println("forgotPwd method");
+	}
+
 }
